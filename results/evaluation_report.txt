@@ -1,0 +1,36 @@
+BIRDVISION AI - FINAL EVALUATION
+============================================================
+
+Device: cpu
+Test images: 100
+Number of species: 20
+Top-1 Accuracy: 96.00%
+Top-5 Accuracy: 100.00%
+
+CLASSIFICATION REPORT
+                        precision    recall  f1-score   support
+
+ ASIAN GREEN BEE EATER       1.00      1.00      1.00         5
+          CASPIAN TERN       1.00      1.00      1.00         5
+       DARK EYED JUNCO       1.00      1.00      1.00         5
+  EASTERN YELLOW ROBIN       1.00      0.80      0.89         5
+GREY HEADED CHACHALACA       1.00      1.00      1.00         5
+           HOUSE FINCH       1.00      1.00      1.00         5
+        JACOBIN PIGEON       1.00      1.00      1.00         5
+         LAUGHING GULL       1.00      1.00      1.00         5
+               LIMPKIN       1.00      1.00      1.00         5
+                MERLIN       0.71      1.00      0.83         5
+              OVENBIRD       0.83      1.00      0.91         5
+        OYSTER CATCHER       1.00      1.00      1.00         5
+              RED KNOT       1.00      1.00      1.00         5
+       RED TAILED HAWK       1.00      0.60      0.75         5
+                  SORA       1.00      1.00      1.00         5
+VIOLET BACKED STARLING       1.00      1.00      1.00         5
+  VIOLET GREEN SWALLOW       1.00      1.00      1.00         5
+             WOOD DUCK       1.00      1.00      1.00         5
+           WOOD THRUSH       1.00      0.80      0.89         5
+  YELLOW BREASTED CHAT       0.83      1.00      0.91         5
+
+              accuracy                           0.96       100
+             macro avg       0.97      0.96      0.96       100
+          weighted avg       0.97      0.96      0.96       100

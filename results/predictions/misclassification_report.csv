@@ -1,0 +1,5 @@
+image_name,actual_species,predicted_species,confidence_percent,saved_image
+001025.jpg,EASTERN YELLOW ROBIN,YELLOW BREASTED CHAT,53.74,actual_EASTERN YELLOW ROBIN__predicted_YELLOW BREASTED CHAT__001025.jpg
+002075.jpg,RED TAILED HAWK,MERLIN,71.4,actual_RED TAILED HAWK__predicted_MERLIN__002075.jpg
+002079.jpg,RED TAILED HAWK,MERLIN,48.8,actual_RED TAILED HAWK__predicted_MERLIN__002079.jpg
+002589.jpg,WOOD THRUSH,OVENBIRD,55.18,actual_WOOD THRUSH__predicted_OVENBIRD__002589.jpg

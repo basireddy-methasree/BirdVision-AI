@@ -1,0 +1,12 @@
+BIRDVISION AI - PREDICTION REPORT
+=============================================
+Image: new_bird.jpg
+Predicted species: WOOD DUCK
+Confidence: 98.76%
+
+TOP-5 PREDICTIONS
+1. WOOD DUCK: 98.76%
+2. LIMPKIN: 0.41%
+3. RED TAILED HAWK: 0.14%
+4. RED KNOT: 0.11%
+5. HOUSE FINCH: 0.10%
