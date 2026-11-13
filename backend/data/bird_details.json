@@ -1,0 +1,203 @@
+
+{
+  "ASIAN GREEN BEE EATER": {
+    "common_name": "Asian Green Bee-eater",
+    "scientific_name": "Merops orientalis",
+    "habitat": "Open grasslands, agricultural fields, scrublands and woodland edges.",
+    "distribution": "South Asia, Southeast Asia and parts of the Middle East.",
+    "diet": "Bees, wasps, dragonflies, butterflies and other flying insects.",
+    "physical_characteristics": "Small, slender green bird with a black eye stripe, pointed bill and elongated central tail feathers.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "CASPIAN TERN": {
+    "common_name": "Caspian Tern",
+    "scientific_name": "Hydroprogne caspia",
+    "habitat": "Coastal lagoons, estuaries, lakes and large inland water bodies.",
+    "distribution": "Widely distributed across parts of North America, Europe, Asia, Africa and Oceania.",
+    "diet": "Primarily fish, caught by diving into water.",
+    "physical_characteristics": "Large tern with a powerful red bill, black cap, pale body and long pointed wings.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "DARK EYED JUNCO": {
+    "common_name": "Dark-eyed Junco",
+    "scientific_name": "Junco hyemalis",
+    "habitat": "Coniferous forests, woodland edges, gardens and open areas.",
+    "distribution": "North America, including Canada, the United States and parts of Mexico.",
+    "diet": "Seeds, grains, berries and small insects.",
+    "physical_characteristics": "Small sparrow-like bird with a rounded head, short pink bill and contrasting dark and pale plumage.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "EASTERN YELLOW ROBIN": {
+    "common_name": "Eastern Yellow Robin",
+    "scientific_name": "Eopsaltria australis",
+    "habitat": "Woodlands, forests, rainforest edges and coastal scrub.",
+    "distribution": "Eastern Australia.",
+    "diet": "Insects, spiders and other small invertebrates.",
+    "physical_characteristics": "Small bird with a bright yellow underside, grey upperparts and a dark bill.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "GREY HEADED CHACHALACA": {
+    "common_name": "Grey-headed Chachalaca",
+    "scientific_name": "Ortalis cinereiceps",
+    "habitat": "Tropical forests, forest edges, secondary woodland and dense vegetation.",
+    "distribution": "Central America, particularly from Honduras through Panama.",
+    "diet": "Fruits, leaves, flowers and seeds.",
+    "physical_characteristics": "Medium-sized, long-tailed bird with a greyish head, brownish body and relatively small head crest.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "HOUSE FINCH": {
+    "common_name": "House Finch",
+    "scientific_name": "Haemorhous mexicanus",
+    "habitat": "Urban areas, gardens, farms, deserts and open woodland.",
+    "distribution": "North America, including the United States and Mexico.",
+    "diet": "Seeds, fruits and occasionally small insects.",
+    "physical_characteristics": "Small finch with a short conical bill. Males commonly have reddish coloration around the head and breast.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "JACOBIN PIGEON": {
+    "common_name": "Jacobin Pigeon",
+    "scientific_name": "Columba livia domestica",
+    "habitat": "Domestic environments, aviaries and managed pigeon lofts.",
+    "distribution": "Kept domestically in many countries worldwide.",
+    "diet": "Seeds, grains and commercially prepared pigeon feed.",
+    "physical_characteristics": "Distinctive domestic pigeon breed with a large hood of feathers surrounding the head and neck.",
+    "conservation_status": "Domestic breed; wild IUCN conservation status is not applicable.",
+    "image_url": null
+  },
+  "LAUGHING GULL": {
+    "common_name": "Laughing Gull",
+    "scientific_name": "Leucophaeus atricilla",
+    "habitat": "Coastal beaches, marshes, estuaries, islands and shorelines.",
+    "distribution": "Atlantic and Gulf coasts of North America, Central America and the Caribbean.",
+    "diet": "Fish, insects, crustaceans, molluscs and discarded food.",
+    "physical_characteristics": "Medium-sized gull with a dark hood during breeding season, grey wings and a red bill.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "LIMPKIN": {
+    "common_name": "Limpkin",
+    "scientific_name": "Aramus guarauna",
+    "habitat": "Freshwater marshes, swamps, wetlands and vegetated lake edges.",
+    "distribution": "Southeastern United States, Central America, the Caribbean and South America.",
+    "diet": "Primarily freshwater snails, especially apple snails.",
+    "physical_characteristics": "Large wading bird with brown plumage, white markings and a long, slightly curved bill.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "MERLIN": {
+    "common_name": "Merlin",
+    "scientific_name": "Falco columbarius",
+    "habitat": "Open woodland, grasslands, coastal areas and open landscapes.",
+    "distribution": "North America, Europe and northern Asia, with seasonal migration.",
+    "diet": "Small birds, insects and occasionally small mammals.",
+    "physical_characteristics": "Small, compact falcon with pointed wings, a short tail and rapid flight.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "OVENBIRD": {
+    "common_name": "Ovenbird",
+    "scientific_name": "Seiurus aurocapilla",
+    "habitat": "Mature deciduous and mixed forests with leaf-covered ground.",
+    "distribution": "Breeds in eastern and northern North America and winters in Central America and the Caribbean.",
+    "diet": "Insects, spiders, worms and other small invertebrates.",
+    "physical_characteristics": "Olive-brown upperparts, white underside with dark streaks and an orange crown stripe bordered by dark lines.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "OYSTER CATCHER": {
+    "common_name": "Oystercatcher",
+    "scientific_name": null,
+    "habitat": "Coastal shorelines, mudflats, sandy beaches and rocky intertidal areas.",
+    "distribution": "Oystercatcher species occur along coastlines worldwide.",
+    "diet": "Molluscs, shellfish, marine worms and other coastal invertebrates.",
+    "physical_characteristics": "Typically a robust shorebird with a long, strong bill, often bright red or orange, and contrasting plumage.",
+    "conservation_status": "Species-specific status requires confirmation.",
+    "image_url": null
+  },
+  "RED KNOT": {
+    "common_name": "Red Knot",
+    "scientific_name": "Calidris canutus",
+    "habitat": "Coastal mudflats, sandy beaches, tidal flats and tundra breeding grounds.",
+    "distribution": "Arctic breeding regions with long-distance migrations to coastal areas worldwide.",
+    "diet": "Molluscs, small crustaceans, worms and other invertebrates.",
+    "physical_characteristics": "Medium-sized migratory shorebird with a straight bill and reddish breeding plumage.",
+    "conservation_status": "Near Threatened",
+    "image_url": null
+  },
+  "RED TAILED HAWK": {
+    "common_name": "Red-tailed Hawk",
+    "scientific_name": "Buteo jamaicensis",
+    "habitat": "Open fields, deserts, grasslands, forests and mountainous areas.",
+    "distribution": "North America and parts of Central America and the Caribbean.",
+    "diet": "Small mammals, birds, reptiles and other small animals.",
+    "physical_characteristics": "Large bird of prey with broad wings, a hooked bill and a characteristic reddish tail in adults.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "SORA": {
+    "common_name": "Sora",
+    "scientific_name": "Porzana carolina",
+    "habitat": "Freshwater marshes, wetlands and shallow vegetated water bodies.",
+    "distribution": "North America, migrating to Central America and the Caribbean during winter.",
+    "diet": "Seeds, aquatic plants, insects and small aquatic invertebrates.",
+    "physical_characteristics": "Small rail with a short yellow bill, dark face and grey breast.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "VIOLET BACKED STARLING": {
+    "common_name": "Violet-backed Starling",
+    "scientific_name": "Cinnyricinclus leucogaster",
+    "habitat": "Woodlands, savannas, forest edges and open wooded habitats.",
+    "distribution": "Sub-Saharan Africa.",
+    "diet": "Primarily fruits and berries, along with insects.",
+    "physical_characteristics": "Male has glossy violet upperparts and white underparts; female is brown and streaked.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "VIOLET GREEN SWALLOW": {
+    "common_name": "Violet-green Swallow",
+    "scientific_name": "Tachycineta thalassina",
+    "habitat": "Open woodlands, mountain areas, cliffs and areas near water.",
+    "distribution": "Western North America, migrating to Mexico and Central America.",
+    "diet": "Flying insects caught in flight.",
+    "physical_characteristics": "Small streamlined swallow with iridescent green and violet upperparts and white underparts.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "WOOD DUCK": {
+    "common_name": "Wood Duck",
+    "scientific_name": "Aix sponsa",
+    "habitat": "Wooded swamps, freshwater marshes, ponds and forested wetlands.",
+    "distribution": "North America.",
+    "diet": "Seeds, acorns, aquatic plants, fruits and insects.",
+    "physical_characteristics": "Colorful perching duck. Males have an iridescent green head, chestnut breast and distinctive white markings.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  },
+  "WOOD THRUSH": {
+    "common_name": "Wood Thrush",
+    "scientific_name": "Hylocichla mustelina",
+    "habitat": "Moist deciduous forests with dense understory and leaf litter.",
+    "distribution": "Eastern North America, migrating to Central America during winter.",
+    "diet": "Insects, earthworms, snails and fruits.",
+    "physical_characteristics": "Medium-sized songbird with warm brown upperparts, a white breast and dark round spots.",
+    "conservation_status": "Near Threatened",
+    "image_url": null
+  },
+  "YELLOW BREASTED CHAT": {
+    "common_name": "Yellow-breasted Chat",
+    "scientific_name": "Icteria virens",
+    "habitat": "Dense shrubs, thickets, forest edges and overgrown fields.",
+    "distribution": "North America, migrating to Mexico and Central America.",
+    "diet": "Insects, spiders and berries.",
+    "physical_characteristics": "Large warbler-like bird with a bright yellow breast, olive-green upperparts, white spectacles and a long tail.",
+    "conservation_status": "Least Concern",
+    "image_url": null
+  }
+}

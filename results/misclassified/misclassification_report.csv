@@ -1,0 +1,5 @@
+image_name,actual_species,predicted_species,confidence
+image_01_actual_EASTERN_YELLOW_ROBIN_predicted_YELLOW_BREASTED_CHAT.jpg,EASTERN YELLOW ROBIN,YELLOW BREASTED CHAT,53.74%
+image_02_actual_RED_TAILED_HAWK_predicted_MERLIN.jpg,RED TAILED HAWK,MERLIN,71.40%
+image_03_actual_RED_TAILED_HAWK_predicted_MERLIN.jpg,RED TAILED HAWK,MERLIN,48.80%
+image_04_actual_WOOD_THRUSH_predicted_OVENBIRD.jpg,WOOD THRUSH,OVENBIRD,55.18%

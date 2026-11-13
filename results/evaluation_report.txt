@@ -1,13 +1,15 @@
-BIRDVISION AI - FINAL EVALUATION
-============================================================
+BIRDVISION AI - MODEL EVALUATION
+=================================================================
 
 Device: cpu
 Test images: 100
 Number of species: 20
 Top-1 Accuracy: 96.00%
 Top-5 Accuracy: 100.00%
+Misclassified images: 4
 
 CLASSIFICATION REPORT
+=================================================================
                         precision    recall  f1-score   support
 
  ASIAN GREEN BEE EATER       1.00      1.00      1.00         5

@@ -28,3 +28,6 @@ Thumbs.db
 # Temporary files
 *.log
 *.tmp
+
+# Dataset download logs
+download_error.txt
